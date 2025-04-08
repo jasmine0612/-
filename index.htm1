@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>我家小狗的影片</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      background-color: #fefefe;
+    }
+    iframe {
+      margin-top: 20px;
+      width: 90%;
+      max-width: 720px;
+      height: 405px;
+      border: none;
+      border-radius: 12px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🐶 我家小狗的影片 🐾</h1>
+  <p>快來看看我家可愛的小狗在做什麼～</p>
+  <iframe src="https://www.youtube.com/embed/你的影片ID" allowfullscreen></iframe>
+</body>
+</html>
