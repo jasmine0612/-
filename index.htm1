@@ -5,19 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>我家小狗的影片</title>
   <style>
-    body {
-      font-family: sans-serif;
+    body { font-family: sans-serif;
       text-align: center;
-      background-color: #fefefe;
-    }
-    iframe {
-      margin-top: 20px;
+      background-color: #fefefe; }
+    ifram 
+{ margin-top: 20px;
       width: 90%;
       max-width: 720px;
       height: 405px;
       border: none;
-      border-radius: 12px;
-    }
+      border-radius: 12px; }
   </style>
 </head>
 <body>
